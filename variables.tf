@@ -1,5 +1,5 @@
 variable "queue_name" {
-  default     = "prd-minha-fila-sqs"
+  default     = "cancelamento-queue"
   description = "Nome da fila SQS."
 }
 
